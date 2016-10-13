@@ -1,4 +1,4 @@
 # test-repo
 ##secondary
-*fisrt
-*second
+* fisrt
+* second
